@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+.tools/
+.DS_Store
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+PROPOSAL_GOOGLE_DOC.txt
+project_description*.html
+project_proposal.html
+project_proposal_template.pdf
