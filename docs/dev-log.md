@@ -73,3 +73,24 @@ Source is ready for its first commit/push. The GitHub connector can read the
 repository but has no write permission on this connection; publication will use
 the user's local Git configuration if authenticated. Remote push, Actions, and
 Pages success must be verified separately and recorded after they occur.
+
+## November 22 2026 — Checkpoint preparation
+
+Agent for this session: Claude Code (Claude Opus 5.5) with filesystem and
+terminal access. The author asked it to read the checkpoint instructions, finish
+the checkpoint, and fill in the checkpoint template. This is an English summary
+of a Chinese instruction, not a verbatim quotation.
+
+- Read the checkpoint instructions and template. These course handouts and
+  the local output folder are excluded from the public tree via `.gitignore`.
+- Found that the public GitHub repository had no commits: the October 31
+  commit existed only locally.
+- Re-ran `npm run check` with the project-local Node 24.22.2. ESLint, strict
+  TypeScript, 179 tests in 6 files, and the production build all passed. No
+  application source changed in this session.
+- The agent's `git push` failed because this environment has no GitHub
+  credentials. The author pushes `main` from an authenticated session.
+- Drafted the checkpoint document content; the author copies it into the
+  course Google Doc template and submits the link on Canvas.
+
+GitHub Actions and Pages results are recorded below only after they are observed.

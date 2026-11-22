@@ -3,6 +3,8 @@
 This individual BIOSTAT 615 project is being developed with OpenAI Codex, an
 agentic tool with access to the project files and terminal. The visible session
 identifies the GPT-6 model family; its exact variant/build is not exposed.
+The November 22 checkpoint session (verification, push preparation, and checkpoint
+report) used Claude Code with Claude Opus 5.5; see `docs/dev-log.md`.
 
 ## How agents are used
 

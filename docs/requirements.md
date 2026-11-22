@@ -7,7 +7,7 @@ and the author's completed interview. Status must reflect observed evidence.
 |---|---|
 | Individual Track A statistical-computing artifact | First working version implemented; teaching, simulation, and CSV exploration included. |
 | Agentic coding and honest disclosure | Codex implementation, AI_USAGE.md, docs/dev-log.md. |
-| Public repository separate from TrialSizer | Specified survival repository; remote source push not yet verified. |
+| Public repository separate from TrialSizer | Public repository exists; first source push prepared Nov 22, 2026 (author pushes from an authenticated session). |
 | Proposal AI-authored SPEC.md | Generated from completed restarted interview; retained unchanged during implementation unless scope changes. |
 | Template-based Google Doc; first prompt, setup, platform | Local complete content in PROPOSAL_GOOGLE_DOC.txt; actual copy/share/link still pending. |
 | Instructor Commenter access | Must verify hmkang@umich.edu access on the final proposal Doc. |
